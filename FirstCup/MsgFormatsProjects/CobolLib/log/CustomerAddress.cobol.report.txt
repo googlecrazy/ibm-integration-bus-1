@@ -1,0 +1,49 @@
+
+
+Importing file: C:\Users\Sairam\Desktop\CustomerAddress.cpy
+
+Import options for COBOL: 
+		EXT_DECIMAL_SIGN=ASCII
+		QUOTE=DOUBLE
+		NUMPROC=PFD
+		FLOATING_POINT_FORMAT=0
+		NSYMBOL=NATIONAL
+		ENDIAN=Big
+		EXTENSION_CPY=DS
+		CODEPAGE=UTF-8
+		TRUNC=STD
+		EXTENSION_CBL=FP
+		EXTENSION_CCP=FP
+		PLATFORM_SELECTION=0
+		REMOTE_ENDIAN=Little
+		EXTENSION_COB=FP
+		SCHEMA_TARGET_NAMESPACE_URI=null
+		CREATE_DEFAULT_VALUES_FROM_INITIAL_VALUES=true
+		CREATE_FACETS_FROM_LEVEL_88_VALUE_CLAUSES=false
+		CREATE_NULL_VALUES_FOR_FIELDS=false
+		NULL_CHARACTER_FOR_STRING=%SP; 
+		NULL_CHARACTER_FOR_NUMBER=%#x00; 
+		STRING_PADDING_CHARACTER=%SP;
+		NUMBER_PADDING_CHARACTER=0
+		DEFAULT_FOR_STRING= 
+		DEFAULT_FOR_NUMBER=0
+
+Creating global element for type "CustomerAddress"
+Creating global element "CustomerAddress" for type "CustomerAddress"
+Creating message "CustomerAddress" from global element "CustomerAddress"
+Setting default value for elements of type Number  "0"
+Setting default value for elements of type String  " "
+Setting default value for elements of type String  " "
+Setting default value for elements of type String  " "
+Setting default value for elements of type String  " "
+Setting default value for elements of type String  " "
+Setting Padding Character for elements of type String  "%SP;"
+Setting Padding Character for elements of type Number  "0"
+
+Elapsed time processing this DFDL schema file: 0.608 seconds
+Number of warnings for this DFDL schema file: 0
+
+
+Number of files processed: 1
+
+
